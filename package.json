@@ -1,0 +1,16 @@
+{
+  "name": "csv_parser",
+  "version": "1.0.0",
+  "description": "'xencove assignment'",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Vibhor Vibhav",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
